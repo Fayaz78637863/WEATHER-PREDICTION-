@@ -1,0 +1,37 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin-top: 2em;
+  }
+  
+  form {
+    margin-top: 2em;
+  }
+  
+  input {
+    padding: 0.5em;
+    font-size: 1.2em;
+    border: none;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  button {
+    padding: 0.5em 1em;
+    font-size: 1.2em;
+    margin-left: 1em;
+    background-color: #008CBA;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #weather-info {
+    margin-top: 2em;
+    font-size: 1.5em;
+  }
+  
